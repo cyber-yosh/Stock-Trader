@@ -1,2 +1,2 @@
-# epj
-EPJ stock algorithm 4 Wharton Global Youth Investor Comp
+# Project EPJ
+Training TemporalFusionTransformer to predict stock prices.
