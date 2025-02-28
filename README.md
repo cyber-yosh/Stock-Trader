@@ -2,7 +2,8 @@
 
 ## Stock Price Prediction using Temporal Fusion Transformer
 
-![Stock Market](<img width="635" alt="Screenshot 2025-02-28 at 8 30 49 AM" src="https://github.com/user-attachments/assets/33bdf55f-3be4-4144-9175-48c4f71b232b" />)
+<img width="400" alt="Screenshot 2025-02-28 at 8 31 28 AM" src="https://github.com/user-attachments/assets/5268ac31-9f31-4d76-b89e-1924e85378b5" />
+
 
 ## Overview
 
